@@ -1,0 +1,201 @@
+ProductID,ProductName,Category,Subcategory,CostPrice,SellingPrice,LaunchDate
+PROD_0001,Children's Books Item 1,Books,Children's Books,11.76,28.84,2023-08-01
+PROD_0002,Accessories Item 2,Electronics,Accessories,141.87,292.23,2020-04-13
+PROD_0003,Fitness Item 3,Sports & Outdoors,Fitness,148.85,206.06,2020-10-03
+PROD_0004,Bedding Item 4,Home & Garden,Bedding,36.05,93.45,2023-03-23
+PROD_0005,Women's Wear Item 5,Clothing,Women's Wear,23.0,50.92,2022-06-03
+PROD_0006,Makeup Item 6,Beauty & Health,Makeup,93.62,234.09,2022-07-10
+PROD_0007,Makeup Item 7,Beauty & Health,Makeup,184.78,426.65,2021-06-25
+PROD_0008,Men's Wear Item 8,Clothing,Men's Wear,180.35,261.87,2019-09-10
+PROD_0009,Children's Books Item 9,Books,Children's Books,76.79,151.5,2023-06-09
+PROD_0010,Women's Wear Item 10,Clothing,Women's Wear,62.62,84.64,2022-02-07
+PROD_0011,Educational Item 11,Books,Educational,158.0,385.97,2023-10-03
+PROD_0012,Health Supplements Item 12,Beauty & Health,Health Supplements,49.03,112.4,2020-01-22
+PROD_0013,Personal Care Item 13,Beauty & Health,Personal Care,66.15,85.88,2023-06-14
+PROD_0014,Shoes Item 14,Clothing,Shoes,83.32,136.14,2022-07-30
+PROD_0015,Fiction Item 15,Books,Fiction,110.37,326.68,2021-01-09
+PROD_0016,Kitchen Item 16,Home & Garden,Kitchen,83.5,226.3,2021-05-11
+PROD_0017,Decor Item 17,Home & Garden,Decor,139.76,359.59,2023-04-27
+PROD_0018,Smartphones Item 18,Electronics,Smartphones,121.6,148.94,2020-03-17
+PROD_0019,Smartphones Item 19,Electronics,Smartphones,190.25,364.59,2020-08-09
+PROD_0020,Personal Care Item 20,Beauty & Health,Personal Care,90.48,174.09,2022-08-04
+PROD_0021,Non-Fiction Item 21,Books,Non-Fiction,62.72,110.25,2021-11-13
+PROD_0022,Women's Wear Item 22,Clothing,Women's Wear,111.91,213.0,2022-07-23
+PROD_0023,Skincare Item 23,Beauty & Health,Skincare,68.93,137.0,2023-09-30
+PROD_0024,Men's Wear Item 24,Clothing,Men's Wear,56.45,161.69,2019-08-26
+PROD_0025,Fitness Item 25,Sports & Outdoors,Fitness,68.77,174.34,2023-02-25
+PROD_0026,Men's Wear Item 26,Clothing,Men's Wear,12.41,17.96,2019-01-24
+PROD_0027,Shoes Item 27,Clothing,Shoes,191.07,409.16,2023-05-23
+PROD_0028,Health Supplements Item 28,Beauty & Health,Health Supplements,41.72,59.6,2023-05-19
+PROD_0029,Furniture Item 29,Home & Garden,Furniture,156.57,196.16,2023-07-11
+PROD_0030,Sports Equipment Item 30,Sports & Outdoors,Sports Equipment,109.53,183.28,2022-03-26
+PROD_0031,Skincare Item 31,Beauty & Health,Skincare,104.27,220.99,2019-04-24
+PROD_0032,Outdoor Gear Item 32,Sports & Outdoors,Outdoor Gear,79.86,132.5,2019-07-30
+PROD_0033,Fiction Item 33,Books,Fiction,53.4,112.99,2019-04-01
+PROD_0034,Laptops Item 34,Electronics,Laptops,18.74,34.77,2019-11-04
+PROD_0035,Men's Wear Item 35,Clothing,Men's Wear,115.04,327.3,2023-02-25
+PROD_0036,Personal Care Item 36,Beauty & Health,Personal Care,52.66,86.72,2023-01-15
+PROD_0037,Bedding Item 37,Home & Garden,Bedding,166.94,372.07,2019-09-02
+PROD_0038,Fiction Item 38,Books,Fiction,44.08,116.72,2019-04-05
+PROD_0039,Fitness Item 39,Sports & Outdoors,Fitness,176.63,487.3,2023-05-04
+PROD_0040,Bedding Item 40,Home & Garden,Bedding,26.41,53.4,2021-01-25
+PROD_0041,Kids Item 41,Clothing,Kids,117.12,204.61,2022-06-29
+PROD_0042,Shoes Item 42,Clothing,Shoes,79.97,235.86,2023-05-02
+PROD_0043,Accessories Item 43,Clothing,Accessories,154.49,253.55,2019-01-14
+PROD_0044,Fitness Item 44,Sports & Outdoors,Fitness,54.27,98.96,2023-09-16
+PROD_0045,Skincare Item 45,Beauty & Health,Skincare,190.69,229.33,2022-09-08
+PROD_0046,Sports Equipment Item 46,Sports & Outdoors,Sports Equipment,29.75,64.07,2020-05-02
+PROD_0047,Apparel Item 47,Sports & Outdoors,Apparel,192.63,568.38,2019-10-19
+PROD_0048,Health Supplements Item 48,Beauty & Health,Health Supplements,27.68,79.12,2023-09-28
+PROD_0049,Children's Books Item 49,Books,Children's Books,143.16,267.78,2023-03-12
+PROD_0050,Gaming Item 50,Electronics,Gaming,28.16,40.56,2023-08-07
+PROD_0051,Fitness Item 51,Sports & Outdoors,Fitness,122.46,160.68,2022-09-18
+PROD_0052,Women's Wear Item 52,Clothing,Women's Wear,65.42,178.7,2023-06-29
+PROD_0053,Sports Equipment Item 53,Sports & Outdoors,Sports Equipment,70.43,118.99,2019-06-02
+PROD_0054,Women's Wear Item 54,Clothing,Women's Wear,158.19,356.32,2019-11-15
+PROD_0055,Laptops Item 55,Electronics,Laptops,95.42,168.44,2019-09-05
+PROD_0056,Educational Item 56,Books,Educational,193.28,304.17,2020-09-23
+PROD_0057,Sports Equipment Item 57,Sports & Outdoors,Sports Equipment,171.97,234.35,2023-07-12
+PROD_0058,Health Supplements Item 58,Beauty & Health,Health Supplements,167.01,409.91,2019-03-24
+PROD_0059,Kids Item 59,Clothing,Kids,38.18,94.69,2020-12-29
+PROD_0060,Fitness Item 60,Sports & Outdoors,Fitness,138.66,231.33,2019-12-23
+PROD_0061,Accessories Item 61,Electronics,Accessories,172.37,379.34,2022-01-31
+PROD_0062,Men's Wear Item 62,Clothing,Men's Wear,97.79,258.85,2019-10-14
+PROD_0063,Smartphones Item 63,Electronics,Smartphones,21.72,56.6,2020-03-31
+PROD_0064,Women's Wear Item 64,Clothing,Women's Wear,166.5,311.36,2022-07-14
+PROD_0065,Skincare Item 65,Beauty & Health,Skincare,120.64,200.97,2023-07-23
+PROD_0066,Smartphones Item 66,Electronics,Smartphones,199.46,310.35,2022-08-15
+PROD_0067,Outdoor Gear Item 67,Sports & Outdoors,Outdoor Gear,27.48,74.89,2023-07-15
+PROD_0068,Furniture Item 68,Home & Garden,Furniture,18.11,36.76,2019-12-11
+PROD_0069,Children's Books Item 69,Books,Children's Books,166.12,317.45,2019-03-02
+PROD_0070,Apparel Item 70,Sports & Outdoors,Apparel,42.83,67.95,2020-01-19
+PROD_0071,Bedding Item 71,Home & Garden,Bedding,94.74,139.03,2022-06-11
+PROD_0072,Non-Fiction Item 72,Books,Non-Fiction,132.98,278.99,2022-02-01
+PROD_0073,Fitness Item 73,Sports & Outdoors,Fitness,26.67,50.39,2021-05-08
+PROD_0074,Accessories Item 74,Clothing,Accessories,57.34,171.41,2022-01-18
+PROD_0075,Accessories Item 75,Electronics,Accessories,158.56,292.77,2022-01-20
+PROD_0076,Sports Equipment Item 76,Sports & Outdoors,Sports Equipment,183.41,385.95,2021-03-06
+PROD_0077,Kitchen Item 77,Home & Garden,Kitchen,14.95,34.01,2019-03-02
+PROD_0078,Furniture Item 78,Home & Garden,Furniture,163.64,335.3,2021-01-02
+PROD_0079,Non-Fiction Item 79,Books,Non-Fiction,195.06,269.23,2022-09-07
+PROD_0080,Kids Item 80,Clothing,Kids,111.4,292.34,2023-02-18
+PROD_0081,Laptops Item 81,Electronics,Laptops,119.38,354.41,2021-03-06
+PROD_0082,Kitchen Item 82,Home & Garden,Kitchen,43.46,98.5,2023-07-10
+PROD_0083,Health Supplements Item 83,Beauty & Health,Health Supplements,183.66,229.72,2022-12-05
+PROD_0084,Decor Item 84,Home & Garden,Decor,117.09,259.19,2020-01-21
+PROD_0085,Sports Equipment Item 85,Sports & Outdoors,Sports Equipment,43.36,54.99,2019-04-26
+PROD_0086,Accessories Item 86,Clothing,Accessories,51.57,110.75,2019-01-02
+PROD_0087,Decor Item 87,Home & Garden,Decor,48.28,69.28,2023-01-08
+PROD_0088,Kids Item 88,Clothing,Kids,21.32,31.25,2022-12-14
+PROD_0089,Men's Wear Item 89,Clothing,Men's Wear,170.83,469.65,2019-05-29
+PROD_0090,Garden Item 90,Home & Garden,Garden,121.34,219.12,2020-10-22
+PROD_0091,Women's Wear Item 91,Clothing,Women's Wear,149.15,296.27,2022-08-02
+PROD_0092,Sports Equipment Item 92,Sports & Outdoors,Sports Equipment,43.1,126.88,2022-11-21
+PROD_0093,Educational Item 93,Books,Educational,52.42,118.47,2019-12-26
+PROD_0094,Sports Equipment Item 94,Sports & Outdoors,Sports Equipment,149.46,258.59,2019-12-30
+PROD_0095,Skincare Item 95,Beauty & Health,Skincare,190.27,553.24,2021-03-12
+PROD_0096,Fiction Item 96,Books,Fiction,44.6,79.07,2023-07-15
+PROD_0097,Non-Fiction Item 97,Books,Non-Fiction,131.53,182.48,2021-10-13
+PROD_0098,Kids Item 98,Clothing,Kids,151.62,246.9,2020-10-16
+PROD_0099,Men's Wear Item 99,Clothing,Men's Wear,166.12,399.69,2023-02-02
+PROD_0100,Garden Item 100,Home & Garden,Garden,12.17,19.2,2022-11-20
+PROD_0101,Tablets Item 101,Electronics,Tablets,58.77,81.95,2019-01-03
+PROD_0102,Accessories Item 102,Electronics,Accessories,93.26,182.36,2019-12-07
+PROD_0103,Apparel Item 103,Sports & Outdoors,Apparel,177.54,325.29,2021-02-07
+PROD_0104,Accessories Item 104,Electronics,Accessories,159.86,358.17,2023-04-02
+PROD_0105,Makeup Item 105,Beauty & Health,Makeup,40.9,54.51,2023-09-29
+PROD_0106,Tablets Item 106,Electronics,Tablets,13.81,23.06,2019-08-03
+PROD_0107,Tablets Item 107,Electronics,Tablets,42.32,79.38,2023-02-08
+PROD_0108,Gaming Item 108,Electronics,Gaming,188.95,559.38,2020-11-23
+PROD_0109,Children's Books Item 109,Books,Children's Books,143.86,284.32,2022-08-31
+PROD_0110,Accessories Item 110,Clothing,Accessories,179.05,265.49,2019-07-27
+PROD_0111,Kitchen Item 111,Home & Garden,Kitchen,195.14,377.93,2022-02-08
+PROD_0112,Health Supplements Item 112,Beauty & Health,Health Supplements,135.51,235.15,2019-07-16
+PROD_0113,Accessories Item 113,Electronics,Accessories,118.64,321.72,2019-11-11
+PROD_0114,Tablets Item 114,Electronics,Tablets,10.72,14.55,2023-08-15
+PROD_0115,Personal Care Item 115,Beauty & Health,Personal Care,47.94,59.75,2019-12-16
+PROD_0116,Health Supplements Item 116,Beauty & Health,Health Supplements,195.64,401.54,2019-08-25
+PROD_0117,Garden Item 117,Home & Garden,Garden,99.48,279.62,2020-06-26
+PROD_0118,Gaming Item 118,Electronics,Gaming,83.63,156.21,2021-02-20
+PROD_0119,Kitchen Item 119,Home & Garden,Kitchen,94.7,158.52,2021-08-10
+PROD_0120,Kitchen Item 120,Home & Garden,Kitchen,169.04,374.53,2019-11-06
+PROD_0121,Skincare Item 121,Beauty & Health,Skincare,26.28,47.8,2022-01-13
+PROD_0122,Outdoor Gear Item 122,Sports & Outdoors,Outdoor Gear,115.18,312.53,2023-08-04
+PROD_0123,Children's Books Item 123,Books,Children's Books,193.47,471.43,2021-08-30
+PROD_0124,Non-Fiction Item 124,Books,Non-Fiction,100.49,134.87,2023-10-15
+PROD_0125,Skincare Item 125,Beauty & Health,Skincare,105.4,297.31,2023-06-28
+PROD_0126,Non-Fiction Item 126,Books,Non-Fiction,32.85,84.19,2019-12-21
+PROD_0127,Women's Wear Item 127,Clothing,Women's Wear,163.61,233.49,2021-05-17
+PROD_0128,Accessories Item 128,Electronics,Accessories,48.36,129.63,2019-10-30
+PROD_0129,Educational Item 129,Books,Educational,70.75,177.5,2023-07-12
+PROD_0130,Smartphones Item 130,Electronics,Smartphones,83.74,160.38,2020-10-29
+PROD_0131,Decor Item 131,Home & Garden,Decor,97.05,269.05,2023-05-30
+PROD_0132,Personal Care Item 132,Beauty & Health,Personal Care,31.38,46.11,2022-03-06
+PROD_0133,Fiction Item 133,Books,Fiction,185.74,411.01,2019-07-26
+PROD_0134,Decor Item 134,Home & Garden,Decor,177.23,492.74,2020-06-24
+PROD_0135,Apparel Item 135,Sports & Outdoors,Apparel,118.68,243.47,2019-12-19
+PROD_0136,Garden Item 136,Home & Garden,Garden,37.33,85.69,2022-11-21
+PROD_0137,Fitness Item 137,Sports & Outdoors,Fitness,85.2,237.04,2022-11-15
+PROD_0138,Men's Wear Item 138,Clothing,Men's Wear,151.69,433.45,2021-02-01
+PROD_0139,Tablets Item 139,Electronics,Tablets,165.3,288.53,2020-07-28
+PROD_0140,Fitness Item 140,Sports & Outdoors,Fitness,194.77,313.64,2020-09-07
+PROD_0141,Personal Care Item 141,Beauty & Health,Personal Care,157.07,279.2,2023-02-01
+PROD_0142,Fitness Item 142,Sports & Outdoors,Fitness,45.71,72.24,2023-08-15
+PROD_0143,Apparel Item 143,Sports & Outdoors,Apparel,154.3,426.01,2023-08-09
+PROD_0144,Gaming Item 144,Electronics,Gaming,160.38,211.4,2022-12-24
+PROD_0145,Children's Books Item 145,Books,Children's Books,35.77,97.74,2023-12-06
+PROD_0146,Fiction Item 146,Books,Fiction,43.01,119.37,2020-02-16
+PROD_0147,Laptops Item 147,Electronics,Laptops,16.28,21.02,2021-01-08
+PROD_0148,Makeup Item 148,Beauty & Health,Makeup,62.06,166.46,2021-10-31
+PROD_0149,Fitness Item 149,Sports & Outdoors,Fitness,139.42,228.02,2021-09-28
+PROD_0150,Children's Books Item 150,Books,Children's Books,43.74,121.02,2022-04-16
+PROD_0151,Educational Item 151,Books,Educational,75.41,204.19,2020-06-13
+PROD_0152,Skincare Item 152,Beauty & Health,Skincare,64.16,121.64,2019-11-30
+PROD_0153,Non-Fiction Item 153,Books,Non-Fiction,172.85,408.84,2022-10-19
+PROD_0154,Kids Item 154,Clothing,Kids,133.8,284.18,2023-11-06
+PROD_0155,Skincare Item 155,Beauty & Health,Skincare,100.08,143.93,2019-12-21
+PROD_0156,Fiction Item 156,Books,Fiction,52.52,120.53,2020-09-17
+PROD_0157,Health Supplements Item 157,Beauty & Health,Health Supplements,90.52,169.97,2020-12-15
+PROD_0158,Sports Equipment Item 158,Sports & Outdoors,Sports Equipment,51.46,89.74,2021-12-02
+PROD_0159,Children's Books Item 159,Books,Children's Books,121.05,146.86,2022-09-18
+PROD_0160,Decor Item 160,Home & Garden,Decor,133.0,305.41,2020-09-03
+PROD_0161,Skincare Item 161,Beauty & Health,Skincare,101.53,183.29,2020-07-20
+PROD_0162,Health Supplements Item 162,Beauty & Health,Health Supplements,173.68,290.06,2022-12-27
+PROD_0163,Health Supplements Item 163,Beauty & Health,Health Supplements,45.79,97.58,2020-05-07
+PROD_0164,Gaming Item 164,Electronics,Gaming,86.78,154.06,2019-10-14
+PROD_0165,Skincare Item 165,Beauty & Health,Skincare,134.53,402.98,2020-06-15
+PROD_0166,Apparel Item 166,Sports & Outdoors,Apparel,83.77,105.85,2022-12-21
+PROD_0167,Non-Fiction Item 167,Books,Non-Fiction,75.2,186.8,2022-11-06
+PROD_0168,Children's Books Item 168,Books,Children's Books,182.24,439.08,2021-11-04
+PROD_0169,Kitchen Item 169,Home & Garden,Kitchen,169.72,471.43,2020-01-06
+PROD_0170,Furniture Item 170,Home & Garden,Furniture,99.45,251.97,2023-01-25
+PROD_0171,Non-Fiction Item 171,Books,Non-Fiction,189.92,535.43,2022-09-02
+PROD_0172,Laptops Item 172,Electronics,Laptops,77.5,196.82,2020-09-20
+PROD_0173,Sports Equipment Item 173,Sports & Outdoors,Sports Equipment,80.62,181.72,2021-08-07
+PROD_0174,Accessories Item 174,Electronics,Accessories,20.2,47.31,2022-04-03
+PROD_0175,Fiction Item 175,Books,Fiction,99.72,154.58,2019-09-03
+PROD_0176,Personal Care Item 176,Beauty & Health,Personal Care,110.67,215.1,2023-11-19
+PROD_0177,Women's Wear Item 177,Clothing,Women's Wear,198.55,360.73,2022-03-12
+PROD_0178,Outdoor Gear Item 178,Sports & Outdoors,Outdoor Gear,70.11,174.45,2023-05-15
+PROD_0179,Accessories Item 179,Electronics,Accessories,73.2,217.84,2020-10-03
+PROD_0180,Skincare Item 180,Beauty & Health,Skincare,10.9,18.45,2023-04-08
+PROD_0181,Accessories Item 181,Clothing,Accessories,155.25,323.11,2023-04-13
+PROD_0182,Laptops Item 182,Electronics,Laptops,126.75,296.63,2021-04-06
+PROD_0183,Apparel Item 183,Sports & Outdoors,Apparel,82.83,105.02,2020-02-13
+PROD_0184,Health Supplements Item 184,Beauty & Health,Health Supplements,190.51,534.5,2023-03-31
+PROD_0185,Non-Fiction Item 185,Books,Non-Fiction,13.4,16.18,2023-02-11
+PROD_0186,Women's Wear Item 186,Clothing,Women's Wear,141.77,258.0,2019-09-22
+PROD_0187,Accessories Item 187,Electronics,Accessories,105.63,184.96,2019-05-14
+PROD_0188,Tablets Item 188,Electronics,Tablets,190.21,384.35,2021-12-01
+PROD_0189,Educational Item 189,Books,Educational,92.4,225.11,2019-10-02
+PROD_0190,Garden Item 190,Home & Garden,Garden,78.26,120.46,2023-07-21
+PROD_0191,Fitness Item 191,Sports & Outdoors,Fitness,53.4,133.98,2019-09-26
+PROD_0192,Men's Wear Item 192,Clothing,Men's Wear,122.04,183.57,2021-01-20
+PROD_0193,Skincare Item 193,Beauty & Health,Skincare,81.29,191.24,2023-04-29
+PROD_0194,Fiction Item 194,Books,Fiction,122.85,158.03,2019-08-10
+PROD_0195,Skincare Item 195,Beauty & Health,Skincare,19.16,26.99,2021-06-28
+PROD_0196,Fitness Item 196,Sports & Outdoors,Fitness,113.98,234.11,2019-11-10
+PROD_0197,Men's Wear Item 197,Clothing,Men's Wear,67.21,160.7,2022-09-18
+PROD_0198,Educational Item 198,Books,Educational,128.33,315.86,2021-05-07
+PROD_0199,Gaming Item 199,Electronics,Gaming,146.57,206.95,2019-08-22
+PROD_0200,Accessories Item 200,Electronics,Accessories,47.74,74.45,2020-06-22
