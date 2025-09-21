@@ -1,0 +1,21 @@
+EmployeeID,EmployeeName,Role,Region,Email
+EMP_001,John Manager,Regional Manager,North,john.manager@company.com
+EMP_010,Sales Rep 1 North,Sales Representative,North,salesrep1.north@company.com
+EMP_011,Sales Rep 2 North,Sales Representative,North,salesrep2.north@company.com
+EMP_012,Sales Rep 3 North,Sales Representative,North,salesrep3.north@company.com
+EMP_002,Sarah Director,Regional Manager,South,sarah.director@company.com
+EMP_020,Sales Rep 1 South,Sales Representative,South,salesrep1.south@company.com
+EMP_021,Sales Rep 2 South,Sales Representative,South,salesrep2.south@company.com
+EMP_022,Sales Rep 3 South,Sales Representative,South,salesrep3.south@company.com
+EMP_003,Mike Supervisor,Regional Manager,East,mike.supervisor@company.com
+EMP_030,Sales Rep 1 East,Sales Representative,East,salesrep1.east@company.com
+EMP_031,Sales Rep 2 East,Sales Representative,East,salesrep2.east@company.com
+EMP_032,Sales Rep 3 East,Sales Representative,East,salesrep3.east@company.com
+EMP_004,Lisa Lead,Regional Manager,West,lisa.lead@company.com
+EMP_040,Sales Rep 1 West,Sales Representative,West,salesrep1.west@company.com
+EMP_041,Sales Rep 2 West,Sales Representative,West,salesrep2.west@company.com
+EMP_042,Sales Rep 3 West,Sales Representative,West,salesrep3.west@company.com
+EMP_005,Tom Chief,Regional Manager,Central,tom.chief@company.com
+EMP_050,Sales Rep 1 Central,Sales Representative,Central,salesrep1.central@company.com
+EMP_051,Sales Rep 2 Central,Sales Representative,Central,salesrep2.central@company.com
+EMP_052,Sales Rep 3 Central,Sales Representative,Central,salesrep3.central@company.com
