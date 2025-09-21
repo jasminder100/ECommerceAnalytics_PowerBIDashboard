@@ -17,11 +17,13 @@
 1) Total Sales, Profit Margin (%), and Total Quantity by Category & Year (scatter, top‑left)
 
   i) X‑axis = total sales; Y‑axis = profit margin; bubble size = total quantity; color = category. The time slider lets you focus on 2022–2024 (the view shown is 2024).
+  
   ii) What to do with it: Favor bubbles that sit far right (higher sales) and higher up (higher margin). If a bubble is big (high units) but lower on margin, that’s a pricing or COGS opportunity.
 
 2) Total Sales by Category with ABC filter (stacked bar, top‑right)
 
  i) Horizontal bar shows total sales contribution by category. The y‑axis indicates the ABC class currently selected (here, “C” is active).
+ 
  ii) What to do with it: Use ABC to manage the portfolio—protect A items, optimize B, and rationalize or reposition C (long‑tail) items unless they serve a strategic role.
 
 3) Total Sales by Category, Product & SubCategory (Sankey, bottom‑left)
@@ -31,6 +33,7 @@
     b) Category contributions (examples): Clothing 597,493.86; Beauty & Health 570,471.68; Electronics 544,571.53
     c) Within Beauty & Health, example SKUs: Health Supplements Item ≈51,312.00; Skincare Item 95 ≈43,152.72; Health Supplements Item ≈36,941.68
     d) Subcategory example: Skincare ≈43,152.72
+    
 ii) What to do with it: Identify “hero” SKUs and subcategories to scale, and tail SKUs to fix, bundle, or sunset.
 
 # Key Insights > Top segments (AI visual, bottom‑right)
