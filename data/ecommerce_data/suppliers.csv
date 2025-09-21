@@ -1,0 +1,7 @@
+SupplierID,SupplierName,Country,ContactEmail,PaymentTerms,Rating
+SUP_001,TechSupply Inc,France,contact@techsupplyinc.com,Net 45,3.9
+SUP_002,Fashion Forward Ltd,France,contact@fashionforwardltd.com,Net 45,3.6
+SUP_003,Home Essentials Co,UK,contact@homeessentialsco.com,Net 30,4.8
+SUP_004,Sports Plus,Australia,contact@sportsplus.com,Net 60,4.7
+SUP_005,Book World,Canada,contact@bookworld.com,Net 60,4.5
+SUP_006,Beauty Supply Corp,Japan,contact@beautysupplycorp.com,Net 60,4.7
