@@ -39,7 +39,9 @@ ii) What to do with it: Identify “hero” SKUs and subcategories to scale, and
 # Key Insights > Top segments (AI visual, bottom‑right)
 
   i)Answers “When is Total Sales more likely to be High?” It found three segments and ranked them by average sales.
+  
   ii) Current output: Segment 1 ≈27.3K average sales (count 30), Segment 2 ≈19.14K (count 30), Segment 3 ≈17.84K (count 30).
+  
   iii) What to do with it: Inspect the underlying drivers (e.g., region, channel, customer type, or product attributes). Use the top segment’s characteristics to inform         targeting, offers, and inventory allocation.
   
 # What this means for the business
